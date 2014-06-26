@@ -10,8 +10,8 @@
 creating a crontab
   * create a morning wake up call (epseak/say)
   * create an evening note (say -- remember the chicken)
-  * scary picture @ midnight
   * rick-roll the next class (or your sibling)
+  * play scary video @ midnight
 
 * command-mode
   * doing things on the command line
