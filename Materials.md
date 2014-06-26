@@ -17,12 +17,15 @@ creating a crontab
   * doing things on the command line
   * reading in things from the command line
   * reading in other files
+  
   L00k1n9 hax
   * vsplit
   * tabedit
   * colorscheme
+
   Be Practical
   * `:set paste` before pasting
+
   Keeping the history (never leave vim)
   * shell-ing out
 * registering
