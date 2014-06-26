@@ -7,7 +7,9 @@
   * to save press `<ESC>:wq`
   * to just save type `:w` from normal mode
 
-creating a crontab
+creating a crontab
+  * create a morning wake up call (epseak/say)
+  * create an evening note (say -- remember the chicken)
   * scary picture
   * rick-roll the next class (or your sibling)
 
