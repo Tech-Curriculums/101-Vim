@@ -46,8 +46,9 @@ creating a crontab
     * Normal: q then "register" (I like to use "u" for this, easy to reach),
     * type your macro
     * go back to normal mode, then press q to complete
-    * to 
     * type @u in normal mode to execute the any command
+  * edit
+    * `"u p` then yank back into register `"u y", you can type macros
   * what if you want to keep your dynamic macros dynamic?
 * leaderkeys
   * hooray for vimscript!
