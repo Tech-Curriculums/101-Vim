@@ -20,6 +20,9 @@ creating a crontab
   L00k1n9 hax
   * vsplit
   * tabedit
+  * colorscheme
+  Be Practical
+  * `:set paste` before pasting
   Keeping the history (never leave vim)
   * shell-ing out
 * registering
