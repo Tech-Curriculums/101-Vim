@@ -6,6 +6,11 @@
   * press `<ESC>` alot, alot alot
   * to save press `<ESC>:wq`
   * to just save type `:w` from normal mode
+
+creating a crontab
+  * scary picture
+  * rick-roll the next class (or your sibling)
+
 * command-mode
   * doing things on the command line
   * reading in things from the command line
